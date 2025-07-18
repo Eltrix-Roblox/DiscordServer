@@ -1,2 +1,9 @@
-# DiscordServer
-ChangeLog-DiscordServer
+# <p align="center"> 🕹️DiscordServer Eltrix🍿
+<p align="center"> ChangeLog-Eltrix
+<p align="center"> Discord Server Creation Date (17-3-2025)
+<p align="center"> What did we add Starting menu and Probot/Tickettool
+<p align="center"> Date (23-5-2025)
+<p align="center"> What did we add the apps you know now
+<p align="center"> Date (18-7-2025)
+<p align="center"> Server Revamp Added Verified Roles, Updated DiscoUtils, Added New Sections, Roblox Game Develpment Started.
+<p align="center"> Greetings Eltrix  
