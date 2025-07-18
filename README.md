@@ -1,4 +1,4 @@
-# <p align="center"> 🕹️DiscordServer Eltrix🍿
+# <p align="center"> 🕹️Discord-Server Eltrix🍿
 <p align="center"> ChangeLog-Eltrix
 <p align="center"> Discord Server Creation Date (17-3-2025)
 <p align="center"> What did we add Starting menu and Probot/Tickettool
